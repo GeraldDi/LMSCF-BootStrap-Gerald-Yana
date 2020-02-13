@@ -1,0 +1,32 @@
+.nav {
+	height: 60px;
+	color: white;
+}
+
+.myoutercontainer{
+	background-color: #f1f1f1;
+}
+
+.mycontainer {
+	background-color: white;
+}
+
+.row div {
+	height: 150px;
+	background-color: #a97f7f;
+}
+
+.col-lg-2, .col-md-4, .col-xs-6{
+    padding-right: 0px; 
+    padding-left: 0px;
+
+} 
+
+input{
+	width: 500px;
+	height: 30px;
+}
+
+button{
+	height: 30px;
+}
